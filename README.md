@@ -35,7 +35,5 @@ Linux(CentOS7.1)で検証しています。
   Content-Type: text/html
 
   <html>Hello world</html>Connection closed by foreign host.
-p>
-
   ```
   
